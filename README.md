@@ -2,7 +2,30 @@
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=Hola+mi+nombre+es+Marlon+Maisanche;Soy+estudiante+de+la+carrera+de+Software" alt="Headline" />
+    </div>
+    <div align=center>
+    <h2 align="left">Puedes contactarme por:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/marlon-maisanche-torres-a3b939164/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.facebook.com/profile.php?id=100010444053361" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://mailto:marlon.maisanche@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://wa.me/+593963907198" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+    </div>
     <div align=left>
         <br>
         <p>
@@ -12,41 +35,35 @@
        Me especializo en .NET Core y Microsoft SQL Server y tengo experiencia trabajando con Angular. Bueno en algoritmos, estructuras de datos, sistemas de bases de datos, programación orientada a objetos, patrones de diseño y habilidades para resolver problemas.
                 .<br><br>
 Me apasiona aprender .NET, todas las tecnologías back-end, Web 3, Blockchain, Linux, virtualización, computación en la nube y DevOps.
-                <br><br>
-                
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
-            <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
+         <li>🌱 <b>Actualmente estoy aprendiendo</b>: informática e ingeniería de software.</li>
+         <li>🌱 He trabajado en proyectos contables, desarrollos multiplataforma, tiendas online, desarrollos de videojuegos y aplicaciones móviles. </li>
         </ul>
     </div>
+  <h1>Lenguajes que domino</h1>
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/office/48/000000/react.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> 
+ <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
     <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <h1>Lenguajes más usados</h1>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarlonMaisanche&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
-        <!--
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        -->
+               <h1>Actividad de contribución</h1>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
     </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
+
 </div>
-
-------
-
-Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
-
-Last edited on: 31/01/2022
